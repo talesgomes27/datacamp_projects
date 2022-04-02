@@ -1,2 +1,2 @@
 # datacamp_projects
-Projeto visa agrupar meus estudos feitos na Datacamp.
+Projeto para agrupar todos os projetos realizados na Datacamp.

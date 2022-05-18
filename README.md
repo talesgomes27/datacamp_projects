@@ -1,4 +1,4 @@
-# datacamp_projects
+# Datacamp Projects
 Projeto para agrupar todos os projetos realizados na Datacamp.
 
 ## Databel Churn Analysis

@@ -1,14 +1,17 @@
 # Datacamp Projects
 Projeto para agrupar todos os projetos realizados na Datacamp.
 
-## Custumer Churn Analysis in Power BI
 
-- [Link Dashboard](https://talesgomes27.github.io/datacamp_projects/Databel%20Churn%20Analysis/Databel%20Churn%20Analysis.pdf) 
+## Power BI
 
-- [Link Código](https://github.com/talesgomes27/datacamp_projects/tree/main/Databel%20Churn%20Analysis) 
+### Custumer Churn Analysis in Power BI
 
-## Analyzing Job Market Data in Power BI
+- [Link Dashboard](https://talesgomes27.github.io/datacamp_projects/databel-churn-analysis-in-power-bi/Databel_Churn_Analysis.pdf) 
 
-- [Link Dashboard](https://github.com/talesgomes27/datacamp_projects/blob/main/Analyzing%20Job%20Market%20Data%20in%20Power%20BI/Analyzing%20Job%20Market%20Data%20in%20Power%20BI.pdf)
+- [Link Código](https://github.com/talesgomes27/datacamp_projects/tree/main/databel-churn-analysis-in-power-bi) 
 
-- [Link Código](https://github.com/talesgomes27/datacamp_projects/tree/main/Analyzing%20Job%20Market%20Data%20in%20Power%20BI)
+### Analyzing Job Market Data in Power BI
+
+- [Link Dashboard](https://talesgomes27.github.io/datacamp_projects/analyzing-job-market-data-in-power-bi/Analyzing_Job_Market_Data_in_Power_BI.pdf)
+
+- [Link Código](https://github.com/talesgomes27/datacamp_projects/tree/main/analyzing-job-market-data-in-power-bi)

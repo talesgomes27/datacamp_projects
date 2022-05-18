@@ -1,7 +1,7 @@
 # Datacamp Projects
 Projeto para agrupar todos os projetos realizados na Datacamp.
 
-## Databel Churn Analysis
+## Custumer Churn Analysis in Power BI
 
 - [Link Dashboard](https://talesgomes27.github.io/datacamp_projects/Databel%20Churn%20Analysis/Databel%20Churn%20Analysis.pdf) 
 

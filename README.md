@@ -21,4 +21,9 @@ Projeto para agrupar todos os projetos realizados na Datacamp.
 ### What and Where are the World's Oldest Businesses
 
 - [Projeto](https://github.com/talesgomes27/datacamp_projects/blob/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses/notebook.ipynb) 
+
+### Analyze International Debt Statistics
+
+- [Projeto](https://github.com/talesgomes27/datacamp_projects/blob/main/Analyze%20International%20Debt%20Statistics/notebook.ipynb) 
+
  

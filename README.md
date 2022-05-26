@@ -20,6 +20,10 @@ Projeto para agrupar todos os projetos realizados na Datacamp.
 
 ## SQL
 
+### Analyzing NYC Public School Test Result Scores
+
+- [Projeto](https://github.com/talesgomes27/datacamp_projects/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores/notebook.ipynb) 
+
 ### What and Where are the World's Oldest Businesses
 
  - [Projeto](https://github.com/talesgomes27/datacamp_projects/blob/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses/notebook.ipynb) 

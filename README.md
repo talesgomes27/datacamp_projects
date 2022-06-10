@@ -1,5 +1,4 @@
-# Datacamp Projects
-This project aims to group all my data science and analytics projects.
+# Data Science Projects
 
 ## Power BI
 

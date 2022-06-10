@@ -1,6 +1,5 @@
 # Datacamp Projects
-Projeto para agrupar todos os projetos realizados na Datacamp.
-
+This project aims to group all my data science and analytics projects.
 
 ## Power BI
 

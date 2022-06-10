@@ -1,5 +1,7 @@
 # Data Science Projects
 
+This project aims to group all my data science and analytics projects.
+
 ## Power BI
 
 ### Custumer Churn Analysis in Power BI

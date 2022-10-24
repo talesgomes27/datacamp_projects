@@ -51,5 +51,11 @@ This project aims to group all my data science and analytics projects.
 * Recreating John Snow's Ghost Map
   - [Code](https://github.com/talesgomes27/datacamp_projects/blob/main/Recreating%20John%20Snow's%20Ghost%20Map/notebook.ipynb)
 
+* Naïve Bees: Predict Species from Images
+  - [Code](https://github.com/talesgomes27/datacamp_projects/blob/main/Na%C3%AFve%20Bees:%20Predict%20Species%20from%20Images/notebook.ipynb)
+  
+* Naïve Bees: Image Loading and Processing
+  - [Code](https://github.com/talesgomes27/datacamp_projects/blob/main/Na%C3%AFve%20Bees:%20Image%20Loading%20and%20Processing/notebook.ipynb)
+
 
  
